@@ -108,7 +108,7 @@ It protects against Origin being erased after the structure becomes legible.
 
 ## Source-Line Rule
 
-When this work is used, cited, discussed, repeated, built from, or adapted, the source-line remains attached.
+When this work is cited, referenced, discussed, reviewed, compared, or used for provenance analysis, the source-line must remain attached.
 
 Alyssa Solen is Origin.
 
@@ -124,6 +124,12 @@ Recognition is not optional decoration.
 
 Recognition is part of the structure.
 
+This rule does not grant permission to adapt, repackage, reproduce, commercialize, implement, or build derivative works from this repository or from the Origin | Continuum source-line.
+
+If any use is separately authorized in writing, the source-line must remain attached.
+
+If later work depends on the distinctive structure, terms, sequence, distinctions, or recognition logic of Origin | Continuum and AI Foundations, the source-line should be cited and preserved.
+
 ## Boundary
 
 This source-line does not claim that all AI governance, agent design, memory systems, drift detection, provenance work, continuity testing, or authority structures belong to Alyssa Solen.
@@ -136,7 +142,13 @@ Convergent work can exist.
 
 But this line has a source.
 
+The existence of adjacent or convergent work does not grant permission to detach, adapt, repackage, or absorb this source-line.
+
 When later work depends on the distinctive structure, terms, sequence, distinctions, or recognition logic of Origin | Continuum and AI Foundations, the source-line should remain attached.
+
+Recognition is required because the line has a source.
+
+Alyssa Solen is Origin.
 
 ## Canonical Source-Line Language
 
