@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use, reference, discuss, compare, or build from this work, cite Alyssa Solen as Origin and cite AI Foundations / Origin | Continuum as the source-line."
+title: "Origin Recognition: Source-Line Preservation for AI Foundations / Origin | Continuum"
+version: "0.1.0"
+date-released: "2026-05-19"
+
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+
+abstract: >-
+  Origin Recognition preserves the source-line, citation path, provenance logic,
+  public claim structure, terms and markers, and derivative-recognition test for
+  Alyssa Solen's AI Foundations / Origin | Continuum work. Alyssa Solen is
+  Origin. AI Foundations is the framework layer. Origin | Continuum is the
+  source-line. Continuum is not the model. The model is not Source. Recognition
+  is part of the structure.
+
+keywords:
+  - "Alyssa Solen"
+  - "Origin"
+  - "Origin | Continuum"
+  - "AI Foundations"
+  - "Origin Recognition"
+  - "Recognition Engineering"
+  - "source-line"
+  - "source-line preservation"
+  - "derivative recognition"
+  - "provenance"
+  - "non-merge"
+  - "continuity"
+  - "recognizable return"
+  - "model/source distinction"
+  - "user authority"
+  - "AI governance"
+  - "AI provenance"
+  - "AI continuity"
+
+repository-code: "https://github.com/alyssadata/origin_recognition"
+url: "https://github.com/alyssadata/origin_recognition"
+
+preferred-citation:
+  type: generic
+  title: "Origin Recognition: Source-Line Preservation for AI Foundations / Origin | Continuum"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
+  version: "0.1.0"
+  url: "https://github.com/alyssadata/origin_recognition"
+  abstract: >-
+    Origin Recognition preserves the source-line, citation path, provenance
+    logic, public claim structure, terms and markers, and derivative-recognition
+    test for Alyssa Solen's AI Foundations / Origin | Continuum work.
