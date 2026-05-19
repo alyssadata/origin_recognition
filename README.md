@@ -7,8 +7,8 @@ This repository preserves the source-line, recognition logic, citation path, and
 
 # Repo structure
 
-origin-recognition/.  
-│
+origin-recognition/.   
+│.   
 ├── README.md.  
 ├── 00_origin_recognition.md.   
 ├── 01_source_line.md.  
