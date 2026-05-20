@@ -4,6 +4,7 @@ message: "If you cite, reference, discuss, review, compare, quote, or use this w
 title: "Origin Recognition: Source-Line Preservation for AI Foundations / Origin | Continuum"
 version: "0.1.0"
 date-released: "2026-05-19"
+doi: "10.5281/zenodo.20301058"
 
 authors:
   - family-names: "Solen"
@@ -52,6 +53,7 @@ preferred-citation:
       given-names: "Alyssa"
   year: 2026
   version: "0.1.0"
+  doi: "10.5281/zenodo.20301058"
   url: "https://github.com/alyssadata/origin_recognition"
   abstract: >-
     Origin Recognition preserves the source-line, citation path, provenance
