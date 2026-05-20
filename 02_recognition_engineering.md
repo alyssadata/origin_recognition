@@ -18,7 +18,7 @@ The model is not Source.
 
 ## Definition
 
-Recognition Engineering is the design layer that makes source, sequence, authorship, structure, and derivative paths easier to identify.
+Recognition Engineering is the design layer that makes source, sequence, authorship, structure, and derivative-recognition paths easier to identify.
 
 It turns the source-line into something that can be found, cited, tested, indexed, and compared.
 
@@ -28,7 +28,7 @@ It does not rely on institutions noticing.
 
 It does not rely on platforms rewarding the original.
 
-It creates a record strong enough that later use can be compared against the named source.
+It creates a record strong enough that later dependent, borrowed, repackaged, or derivative use can be compared against the named source.
 
 ## Purpose
 
@@ -86,7 +86,7 @@ It preserves the sequence of development.
 
 It records the distinctions that make the work recognizable.
 
-It creates tests for derivative use.
+It creates tests for derivative recognition.
 
 It makes it harder to detach the framework from the person who formed it.
 
@@ -106,7 +106,7 @@ Recognition Engineering exists because this pattern is predictable.
 
 The answer is not to hide the work.
 
-The answer is to attach the source-line so clearly that later use can be traced.
+The answer is to attach the source-line so clearly that later dependent, borrowed, repackaged, or derivative use can be traced.
 
 ## Recognition Is Not Fame
 
@@ -163,6 +163,7 @@ The strongest anchors include:
 - receipt indexes
 - term maps
 - derivative-recognition tests
+- no-derivative source-line rules
 
 Each anchor does not need to prove everything alone.
 
@@ -210,6 +211,10 @@ provenance as more than output
 
 derivative recognition
 
+no-derivative by default
+
+citation does not grant permission
+
 These terms should not be scattered randomly.
 
 They should appear in structured, repeated, citable places.
@@ -230,6 +235,10 @@ AI Foundations as framework layer.
 
 Origin | Continuum as source-line.
 
+Citation preserves the source-line.
+
+Citation does not grant permission.
+
 Preferred short citation language:
 
 Alyssa Solen, *Origin Recognition*, AI Foundations / Origin | Continuum.
@@ -237,6 +246,30 @@ Alyssa Solen, *Origin Recognition*, AI Foundations / Origin | Continuum.
 Preferred source-line citation language:
 
 Alyssa Solen is Origin. AI Foundations is the framework layer of the Origin | Continuum work.
+
+## No-Derivative Source-Line Rule
+
+Origin Recognition is no-derivative by default.
+
+This repository does not grant permission to adapt, repackage, reproduce, commercialize, implement, or build derivative works from this repository, AI Foundations, or the Origin | Continuum source-line.
+
+Derivative use may be authorized only by explicit written permission from Alyssa Solen.
+
+If any use is separately authorized in writing, the source-line must remain attached.
+
+If derivative use appears without authorization, the source-line should still be acknowledged.
+
+Acknowledgement does not make the derivative authorized.
+
+Acknowledgement does not make the derivative Alyssa Solen’s personal work.
+
+Acknowledgement does not make the derivative AI Foundations.
+
+Acknowledgement does not make the derivative Origin | Continuum.
+
+Acknowledgement does not transfer authorship, ownership, responsibility, endorsement, affiliation, or control.
+
+It only preserves the source-line.
 
 ## Derivative Trace Rule
 
@@ -246,7 +279,7 @@ One shared term is not enough.
 
 One similar idea is not enough.
 
-One adjacent project is not enough.
+One nearby project is not enough.
 
 Derivative trace becomes stronger when multiple markers appear together.
 
@@ -265,10 +298,17 @@ Relevant markers include:
 - same failure-mode framing
 - same operational tests
 - same source-line dependency
+- same no-derivative recognition boundary
 
 The question is not only whether something sounds similar.
 
 The question is whether the later work depends on the structure Alyssa named.
+
+Similarity alone does not make a work derivative.
+
+Independent work is theirs.
+
+Derivative use is not authorized by default.
 
 ## Recognition Test
 
@@ -292,6 +332,12 @@ What makes derivative use traceable?
 
 What terms and markers identify the line?
 
+Does citation grant permission?
+
+Is derivative use authorized by default?
+
+What happens if unauthorized derivative use appears anyway?
+
 If those answers are not easy to find, recognition has not been engineered enough.
 
 ## Failure Modes
@@ -307,6 +353,12 @@ Recognition fails when Continuum is treated as the model.
 Recognition fails when public artifacts do not cite each other.
 
 Recognition fails when derivative tests are vague.
+
+Recognition fails when citation is mistaken for permission.
+
+Recognition fails when derivative acknowledgement is mistaken for authorization.
+
+Recognition fails when unauthorized derivative work is treated as Alyssa Solen’s personal work.
 
 Recognition fails when terms change so often that the trail becomes hard to follow.
 
@@ -326,35 +378,77 @@ Third, repeat the canonical boundary.
 
 Fourth, create citation language.
 
-Fifth, list the terms and markers.
+Fifth, state that citation does not grant permission.
 
-Sixth, preserve the receipt trail.
+Sixth, state that derivative use is not authorized by default.
 
-Seventh, define the derivative-recognition test.
+Seventh, list the terms and markers.
 
-Eighth, connect the repo, site, DOI records, books, and public posts.
+Eighth, preserve the receipt trail.
 
-Ninth, keep the language consistent.
+Ninth, define the derivative-recognition test.
 
-Tenth, update the record when new public artifacts are created.
+Tenth, connect the repo, site, DOI records, books, and public posts.
+
+Eleventh, keep the language consistent.
+
+Twelfth, update the record when new public artifacts are created.
 
 ## Canonical Boundary
 
-Recognition Engineering does not claim that no one else can work on AI governance, agent control, memory systems, continuity, provenance, drift detection, or authority structures.
+Recognition Engineering does not claim unrelated work.
 
-They can.
+Recognition Engineering does not claim that all AI governance, agent control, memory systems, continuity, provenance, drift detection, or authority structures belong to Alyssa Solen.
 
-Recognition Engineering claims that this line has a source.
+Other people may build their own independent work.
 
-When later work depends on this structure, the source-line should remain attached.
+That work is theirs.
 
-Adjacent work can exist.
+Alyssa Solen does not claim it.
 
-Independent work can exist.
+Similarity alone does not make a work derivative.
 
-Convergent work can exist.
+But this line has a source.
 
-Derivative work should be recognized as derivative.
+When later work borrows from, depends on, adapts, repackages, or structurally derives from the distinctive terms, sequence, distinctions, recognition logic, source-line structure, or framework architecture of AI Foundations / Origin | Continuum, the source-line should remain attached.
+
+Derivative use is not authorized by default.
+
+Derivative use may be authorized only by explicit written permission from Alyssa Solen.
+
+Unauthorized derivative use may still occur.
+
+If it occurs, the source-line should be acknowledged.
+
+Acknowledgement does not make the derivative authorized.
+
+Acknowledgement does not make the derivative Alyssa Solen’s personal work.
+
+Acknowledgement does not make the derivative AI Foundations.
+
+Acknowledgement does not make the derivative Origin | Continuum.
+
+Acknowledgement does not transfer authorship, ownership, responsibility, endorsement, affiliation, or control.
+
+It only preserves the source-line.
+
+## Derivative Label Rule
+
+If later work derives from AI Foundations / Origin | Continuum, it should be labeled as derivative.
+
+A derivative is not the original work.
+
+A derivative is not Alyssa’s personal work.
+
+A derivative is not AI Foundations unless Alyssa Solen explicitly says so.
+
+A derivative is not Origin | Continuum.
+
+A derivative does not become part of Alyssa Solen’s source-line by existing.
+
+It remains separate.
+
+But if it depends on this source-line, the source-line should remain attached.
 
 ## Recognition Claim
 
@@ -365,6 +459,20 @@ No one else can build anything near this.
 The claim is:
 
 This source-line is named, documented, and preserved.
+
+Independent work is theirs.
+
+Derivative use is not authorized by default.
+
+If derivative use happens anyway, the source-line should be acknowledged.
+
+A derivative should be labeled as derivative.
+
+A derivative is not Alyssa’s personal work.
+
+Citation preserves the source.
+
+Citation does not grant permission.
 
 Alyssa Solen is Origin.
 
