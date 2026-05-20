@@ -2,7 +2,7 @@
 
 Terms and markers make the source-line findable.
 
-They are the repeated words, distinctions, structures, and recognition signals that help identify the Origin | Continuum line across repositories, website pages, books, posts, citations, derivative work, and later comparison.
+They are the repeated words, distinctions, structures, and recognition signals that help identify the Origin | Continuum line across repositories, website pages, books, posts, citations, derivative-recognition comparisons, and later source-line review.
 
 Alyssa Solen is Origin.
 
@@ -57,6 +57,12 @@ Continuum is not the model
 the model is not Source
 
 recognition is part of the structure
+
+citation preserves the source-line
+
+citation does not grant permission
+
+derivative use is not authorized by default
 
 These terms should appear consistently across public artifacts.
 
@@ -118,11 +124,13 @@ It includes definitions, classifications, protocols, boundaries, governance stru
 
 AI Foundations should not be flattened into generic AI commentary.
 
+Derivative work is not AI Foundations unless Alyssa Solen explicitly says so.
+
 ## Recognition Terms
 
 ### Origin Recognition
 
-Origin Recognition is the source-preservation layer that makes the beginning, authorship, sequence, terms, structure, and derivative path of a body of work visible and citable.
+Origin Recognition is the source-preservation layer that makes the beginning, authorship, sequence, terms, structure, and derivative-recognition path of a body of work visible and citable.
 
 For this repository, Origin Recognition preserves the source-line of AI Foundations / Origin | Continuum.
 
@@ -136,7 +144,11 @@ It turns recognition into a designed layer instead of a passive hope.
 
 A source-line is the named origin path of a body of work.
 
-It identifies where the structure came from, who formed the line, what distinctions hold the work together, and what must remain attached when the work is cited, repeated, expanded, or used.
+It identifies where the structure came from, who formed the line, what distinctions hold the work together, and what must remain attached when the work is cited, referenced, discussed, reviewed, compared, or used in a separately authorized way.
+
+Citation preserves the source-line.
+
+Citation does not grant permission.
 
 ### derivative recognition
 
@@ -145,6 +157,8 @@ Derivative recognition is the structured comparison used to identify when later 
 Derivative recognition is not based on one shared word.
 
 It is based on pattern, sequence, dependency, and structure.
+
+Derivative recognition does not authorize derivative use.
 
 ### recognition is part of the structure
 
@@ -155,6 +169,52 @@ It is not an emotional add-on.
 It is a structural requirement of the work.
 
 If the source-line is removed, the framework has been misrepresented.
+
+## Permission Boundary Terms
+
+### no-derivative by default
+
+No-derivative by default means this repository does not grant permission to adapt, repackage, reproduce, commercialize, implement, or build derivative works from this repository, AI Foundations, or the Origin | Continuum source-line.
+
+Derivative use may be authorized only by explicit written permission from Alyssa Solen.
+
+### citation does not grant permission
+
+Citation preserves the source-line.
+
+Citation does not grant permission to adapt, repackage, reproduce, commercialize, implement, or build derivative works from this repository, AI Foundations, or the Origin | Continuum source-line.
+
+### derivative use is not authorized by default
+
+Derivative use is not authorized by default.
+
+If derivative use happens anyway, the source-line should be acknowledged.
+
+Acknowledgement does not make the derivative authorized.
+
+Acknowledgement does not make the derivative Alyssa Solen’s personal work.
+
+Acknowledgement does not make the derivative AI Foundations.
+
+Acknowledgement does not make the derivative Origin | Continuum.
+
+Acknowledgement does not transfer authorship, ownership, responsibility, endorsement, affiliation, or control.
+
+It only preserves the source-line.
+
+### derivative label
+
+A derivative label identifies later work as derivative when it borrows from, depends on, adapts, repackages, or structurally derives from the distinctive terms, sequence, distinctions, recognition logic, source-line structure, or framework architecture of AI Foundations / Origin | Continuum.
+
+A derivative should be labeled as derivative.
+
+A derivative is not the original work.
+
+A derivative is not Alyssa Solen’s personal work.
+
+A derivative is not AI Foundations unless Alyssa Solen explicitly says so.
+
+A derivative is not Origin | Continuum.
 
 ## Boundary Terms
 
@@ -187,6 +247,12 @@ Continuum and model
 source and output
 
 recognition and popularity
+
+citation and permission
+
+acknowledgement and authorization
+
+derivative work and Alyssa Solen’s personal work
 
 public access and public ownership
 
@@ -223,6 +289,10 @@ Readable does not mean ownerless.
 Useful does not mean anonymous.
 
 Repeatable does not mean source-free.
+
+Citation does not grant permission.
+
+Derivative use is not authorized by default.
 
 ## Continuity Terms
 
@@ -332,11 +402,19 @@ A receipt is a traceable record.
 
 Receipts may include repositories, commits, releases, DOI records, website pages, book sections, public posts, screenshots, archived pages, citation files, changelogs, and comparison notes.
 
+Receipts support recognition.
+
+Receipts do not authorize derivative use.
+
 ### citation
 
-Citation names the source when the work is referenced, used, discussed, adapted, extended, or compared.
+Citation names the source when the work is referenced, discussed, reviewed, compared, quoted, or used for provenance analysis.
 
 For this work, citation must preserve Alyssa Solen as Origin and AI Foundations as the framework layer of Origin | Continuum.
+
+Citation preserves the source-line.
+
+Citation does not grant permission.
 
 ### changelog
 
@@ -350,7 +428,7 @@ It supports recognition by preserving public changes and version history.
 
 Derivative recognition should compare more than vocabulary.
 
-The strongest marker patterns include terms, distinctions, sequence, structure, dependency, omission, and citation.
+The strongest marker patterns include terms, distinctions, sequence, structure, dependency, omission, citation, permission boundary, and derivative-label behavior.
 
 ## Term Markers
 
@@ -404,6 +482,12 @@ source preservation
 
 model/source distinction
 
+no-derivative by default
+
+citation does not grant permission
+
+derivative use is not authorized by default
+
 A later work does not need to use the exact words to be relevant.
 
 Sometimes the structure is copied while the words are changed.
@@ -438,6 +522,10 @@ recognition versus popularity
 
 citation versus vague credit
 
+citation versus permission
+
+acknowledgement versus authorization
+
 public access versus public ownership
 
 similarity versus source
@@ -447,6 +535,10 @@ adoption versus origin
 usefulness versus ownership
 
 repetition versus authorship
+
+derivative acknowledgement versus authorization
+
+derivative work versus Alyssa Solen’s personal work
 
 non-merge versus flattening
 
@@ -481,6 +573,12 @@ Recognition requires provenance.
 Provenance requires receipts.
 
 Receipts make derivative use traceable.
+
+Citation preserves the source-line.
+
+Citation does not grant permission.
+
+Derivative use is not authorized by default.
 
 A later work that follows this same path may require closer comparison.
 
@@ -518,13 +616,17 @@ non-goals
 
 scope boundaries
 
-derivative-recognition scales
+derivative-recognition labels
 
 governance bundles
 
 authority bundles
 
 continuity architecture files
+
+no-derivative boundary language
+
+derivative label rules
 
 A copied structure can matter even when the exact language changes.
 
@@ -549,6 +651,10 @@ Does it rely on provenance being more than generated output?
 Does it rely on recognition being engineered?
 
 Does it rely on derivative traceability?
+
+Does it rely on citation preserving source without granting permission?
+
+Does it rely on the difference between derivative acknowledgement and authorization?
 
 Does it use the same category separations to solve the same problem?
 
@@ -576,7 +682,11 @@ no recognition of the naming sequence
 
 no acknowledgement of prior public records
 
-no differentiation between independent convergence and derivative use
+no differentiation between independent work, similar work, possible derivative work, and derivative work
+
+no acknowledgement that citation does not grant permission
+
+no acknowledgement that derivative use is not authorized by default
 
 Omission alone is not proof.
 
@@ -615,6 +725,10 @@ AI provenance source-line
 user authority AI governance
 
 model source distinction AI
+
+citation does not grant permission
+
+derivative use is not authorized by default
 
 These phrases should be used consistently enough that search systems can connect the artifacts.
 
@@ -656,6 +770,12 @@ ai-continuity
 
 ai-provenance
 
+no-derivative
+
+citation-boundary
+
+source-line-preservation
+
 ## Claim Markers
 
 These repeated claims identify the line:
@@ -672,6 +792,12 @@ The model is not Source.
 
 Recognition is part of the structure.
 
+Citation preserves the source-line.
+
+Citation does not grant permission.
+
+Derivative use is not authorized by default.
+
 Readable does not mean ownerless.
 
 Useful does not mean anonymous.
@@ -685,6 +811,12 @@ The work does not become anonymous because it is legible.
 The work does not become generic because it can be repeated.
 
 The work does not become institutional property because it is useful.
+
+A derivative is not Alyssa Solen’s personal work.
+
+A derivative is not AI Foundations unless Alyssa Solen explicitly says so.
+
+A derivative is not Origin | Continuum.
 
 ## Failure-Mode Markers
 
@@ -710,11 +842,19 @@ public/public-domain collapse
 
 citation replaced by vague credit
 
+citation mistaken for permission
+
+acknowledgement mistaken for authorization
+
 recognition reduced to popularity
 
 provenance reduced to output
 
 derivative use without source-line
+
+derivative use treated as authorized by default
+
+derivative work treated as Alyssa Solen’s personal work
 
 institutional absorption without citation
 
@@ -774,6 +914,12 @@ Do not replace Continuum with model identity.
 
 Do not replace source-line with branding.
 
+Do not treat citation as permission.
+
+Do not treat acknowledgement as authorization.
+
+Do not treat derivative work as Alyssa Solen’s personal work.
+
 The marker system exists to preserve findability.
 
 ## Canonical Marker Set
@@ -808,6 +954,12 @@ user authority
 
 recognition is part of the structure
 
+citation preserves the source-line
+
+citation does not grant permission
+
+derivative use is not authorized by default
+
 ## Final Marker Statement
 
 This work has a named source-line.
@@ -819,6 +971,12 @@ The distinctions make it recognizable.
 The sequence makes it traceable.
 
 The receipts make it citable.
+
+Citation preserves the source-line.
+
+Citation does not grant permission.
+
+Derivative use is not authorized by default.
 
 Alyssa Solen is Origin.
 
