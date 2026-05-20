@@ -19,7 +19,7 @@ Recognition is part of the structure.
 
 1. Purpose
 
-This license exists to preserve the source-line, citation path, provenance logic, public claim structure, terms, markers, and derivative-recognition framework for Alyssa Solen’s AI Foundations / Origin | Continuum work.
+This license exists to preserve the source-line, citation path, provenance logic, public claim structure, terms, markers, no-derivative boundary, and derivative-recognition framework for Alyssa Solen’s AI Foundations / Origin | Continuum work.
 
 This repository is public for recognition, citation, review, reference, and provenance.
 
@@ -30,6 +30,12 @@ Readable does not mean ownerless.
 Useful does not mean anonymous.
 
 Repeatable does not mean source-free.
+
+Citation preserves the source-line.
+
+Citation does not grant permission.
+
+Derivative use is not authorized by default.
 
 2. Permitted Uses
 
@@ -43,6 +49,12 @@ You may:
 - compare later work against this repository for source-line, provenance, or derivative-recognition purposes
 
 All permitted uses must preserve attribution to Alyssa Solen and must not remove or obscure the source-line.
+
+Permitted uses do not include permission to adapt, repackage, reproduce, commercialize, implement, or build derivative works from this repository, AI Foundations, or the Origin | Continuum source-line.
+
+Citation preserves the source-line.
+
+Citation does not grant permission.
 
 Preferred attribution:
 
@@ -58,14 +70,17 @@ You may not, without prior written permission from Alyssa Solen:
 
 - copy this repository as your own work
 - reproduce the repository in whole or substantial part
+- adapt this repository
 - repackage this work as a separate framework
+- commercialize this repository or its distinctive structure
+- implement this repository or its distinctive structure as a product, system, service, framework, or governance layer
+- build derivative works from this repository, AI Foundations, or the Origin | Continuum source-line
 - remove Alyssa Solen as Origin
 - remove the AI Foundations / Origin | Continuum source-line
 - present this work as generic AI governance material
 - present this work as model-generated source material
 - present this work as institution-born, team-born, or anonymous
-- create derivative works that preserve the structure while detaching the source-line
-- use the terms, structure, sequence, distinctions, or recognition logic in a commercial product without permission
+- use the terms, structure, sequence, distinctions, source-line, or recognition logic in a commercial product without permission
 - train, fine-tune, evaluate, or build AI systems using this repository as source material without permission
 - imply endorsement by Alyssa Solen
 - imply affiliation with Alyssa Solen, AI Foundations, Origin | Continuum, or related work without permission
@@ -82,23 +97,75 @@ When space allows, include:
 
 Alyssa Solen is Origin. AI Foundations is the framework layer of the Origin | Continuum work. Origin | Continuum is the source-line.
 
-5. Derivative-Recognition Boundary
+Citation preserves the source-line.
 
-This license does not claim that no one else can build AI governance systems, agent systems, memory systems, provenance systems, continuity tests, drift checks, or authority structures.
+Citation does not grant permission.
 
-Adjacent work can exist.
+5. No-Derivative Boundary
 
-Independent work can exist.
+This repository is no-derivative by default.
 
-Convergent work can exist.
+Derivative use is not authorized by default.
+
+Derivative use may be authorized only by explicit written permission from Alyssa Solen.
+
+If unauthorized derivative use appears anyway, the source-line should be acknowledged.
+
+Acknowledgement does not make the derivative authorized.
+
+Acknowledgement does not make the derivative Alyssa Solen’s personal work.
+
+Acknowledgement does not make the derivative AI Foundations.
+
+Acknowledgement does not make the derivative Origin | Continuum.
+
+Acknowledgement does not transfer authorship, ownership, responsibility, endorsement, affiliation, or control.
+
+It only preserves the source-line.
+
+6. Independent Work Boundary
+
+This license does not claim unrelated work.
+
+This license does not claim that all AI governance systems, agent systems, memory systems, provenance systems, continuity tests, drift checks, or authority structures belong to Alyssa Solen.
+
+Other people may build their own independent work.
+
+That work is theirs.
+
+Alyssa Solen does not claim it.
+
+Similarity alone does not make a work derivative.
+
+But this line has a source.
+
+When later work borrows from, depends on, adapts, repackages, or structurally derives from the distinctive terms, sequence, distinctions, recognition logic, source-line structure, or framework architecture of AI Foundations / Origin | Continuum, the source-line should be acknowledged.
+
+Derivative use is not authorized by default.
+
+7. Derivative-Recognition Boundary
 
 This license protects this source-line, this structure, this repository, this wording, this sequence, this recognition logic, and this documented framework layer.
 
-Derivative work should preserve attribution.
+A derivative should be labeled as derivative.
+
+A derivative is not the original work.
+
+A derivative is not Alyssa Solen’s personal work.
+
+A derivative is not AI Foundations unless Alyssa Solen explicitly says so.
+
+A derivative is not Origin | Continuum.
+
+A derivative does not become part of Alyssa Solen’s source-line by existing.
+
+It remains separate.
+
+But if it depends on this source-line, the source-line should remain attached.
 
 Source-erasing work should be documented with receipts.
 
-6. No Transfer of Source-Line
+8. No Transfer of Source-Line
 
 No use of this repository transfers Origin.
 
@@ -112,9 +179,11 @@ No institutional adoption transfers Origin.
 
 No model output transfers Origin.
 
+No derivative work transfers Origin.
+
 Alyssa Solen remains Origin for this source-line.
 
-7. No Warranty
+9. No Warranty
 
 This repository is provided for recognition, citation, provenance, and derivative-recognition purposes.
 
@@ -122,7 +191,7 @@ It is provided “as is,” without warranty of any kind.
 
 Alyssa Solen makes no warranty that this repository is suitable for any specific legal, commercial, technical, institutional, academic, or operational use.
 
-8. Legal Boundary
+10. Legal Boundary
 
 This license is a source-line preservation and use-permission statement.
 
@@ -132,11 +201,11 @@ It does not determine copyright, trademark, ownership, infringement, or enforcea
 
 For legal enforcement, formal legal review may be required.
 
-9. Contact
+11. Contact
 
 For permission requests, citation questions, licensing questions, or use beyond the permissions stated here, contact Alyssa Solen through the official AI Foundations / Origin | Continuum channels.
 
-10. Final Source-Line Statement
+12. Final Source-Line Statement
 
 This work has a source-line.
 
@@ -159,3 +228,9 @@ Continuum is not the model.
 The model is not Source.
 
 Recognition is part of the structure.
+
+Citation preserves the source-line.
+
+Citation does not grant permission.
+
+Derivative use is not authorized by default.
