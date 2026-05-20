@@ -1,5 +1,6 @@
 cff-version: 1.2.0
-message: "If you use, reference, discuss, compare, or build from this work, cite Alyssa Solen as Origin and cite AI Foundations / Origin | Continuum as the source-line."
+message: "If you cite, reference, discuss, review, compare, quote, or use this work for provenance analysis, cite Alyssa Solen as Origin and cite AI Foundations / Origin | Continuum as the source-line. Citation preserves the source-line. Citation does not grant permission. Derivative use is not authorized by default."
+
 title: "Origin Recognition: Source-Line Preservation for AI Foundations / Origin | Continuum"
 version: "0.1.0"
 date-released: "2026-05-19"
@@ -10,11 +11,13 @@ authors:
 
 abstract: >-
   Origin Recognition preserves the source-line, citation path, provenance logic,
-  public claim structure, terms and markers, and derivative-recognition test for
-  Alyssa Solen's AI Foundations / Origin | Continuum work. Alyssa Solen is
-  Origin. AI Foundations is the framework layer. Origin | Continuum is the
-  source-line. Continuum is not the model. The model is not Source. Recognition
-  is part of the structure.
+  public claim structure, terms and markers, no-derivative boundary language,
+  and derivative-recognition test for Alyssa Solen's AI Foundations /
+  Origin | Continuum work. Alyssa Solen is Origin. AI Foundations is the
+  framework layer. Origin | Continuum is the source-line. Continuum is not the
+  model. The model is not Source. Recognition is part of the structure.
+  Citation preserves the source-line. Citation does not grant permission.
+  Derivative use is not authorized by default.
 
 keywords:
   - "Alyssa Solen"
@@ -26,6 +29,8 @@ keywords:
   - "source-line"
   - "source-line preservation"
   - "derivative recognition"
+  - "no-derivative by default"
+  - "citation does not grant permission"
   - "provenance"
   - "non-merge"
   - "continuity"
@@ -50,5 +55,7 @@ preferred-citation:
   url: "https://github.com/alyssadata/origin_recognition"
   abstract: >-
     Origin Recognition preserves the source-line, citation path, provenance
-    logic, public claim structure, terms and markers, and derivative-recognition
-    test for Alyssa Solen's AI Foundations / Origin | Continuum work.
+    logic, public claim structure, terms and markers, no-derivative boundary
+    language, and derivative-recognition test for Alyssa Solen's AI Foundations /
+    Origin | Continuum work. Citation preserves the source-line. Citation does
+    not grant permission. Derivative use is not authorized by default.
