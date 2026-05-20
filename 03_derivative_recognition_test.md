@@ -596,7 +596,7 @@ If derivative use is present, the source-line should be acknowledged. Acknowledg
 
 ```
 
-Claim Discipline
+## Claim Discipline
 
 Derivative recognition must stay precise.
 
@@ -612,37 +612,37 @@ Do not weaken the record by overclaiming.
 
 The strength of the recognition layer depends on disciplined claims.
 
-Strong Claim Language
+## Strong Claim Language
 
 Use this when the evidence supports derivative recognition:
 
 This later work shows a derivative pattern from Alyssa Solen’s AI Foundations / Origin | Continuum framework. The overlap is not limited to topic or wording. It includes terms, distinctions, sequence, structure, and source-line logic that were publicly documented in Alyssa Solen’s prior work. The source-line should be acknowledged. Acknowledgement does not make the derivative authorized, and it does not make the derivative Alyssa Solen’s personal work.
 
-Moderate Claim Language
+## Moderate Claim Language
 
 Use this when there is meaningful overlap but not enough to claim derivative use:
 
 This later work overlaps with several concepts from Alyssa Solen’s AI Foundations / Origin | Continuum framework. The overlap should be documented and compared, especially where source/model distinction, continuity, provenance, authority, non-merge, recognition, or derivative-trace logic appear in similar form.
 
-Weak Claim Language
+## Weak Claim Language
 
 Use this when the relation is only broad or uncertain:
 
 This later work appears adjacent to the AI Foundations problem space, but the current evidence does not establish structural dependency on Alyssa Solen’s Origin | Continuum source-line.
 
-Independent Work Language
+## Independent Work Language
 
 Use this when the work is not derivative:
 
 This later work appears independent from Alyssa Solen’s AI Foundations / Origin | Continuum source-line. Alyssa Solen does not claim this work.
 
-Source-Erasure Concern Language
+## Source-Erasure Concern Language
 
 Use this only when the evidence is strong:
 
 This later work appears to preserve the structure while removing the source-line. The concern is not mere similarity. The concern is repeated structural overlap across terms, distinctions, sequence, dependency, and recognition logic without citation to Alyssa Solen, AI Foundations, or Origin | Continuum.
 
-Boundary
+## Boundary
 
 This test does not replace legal review.
 
@@ -658,7 +658,7 @@ Derivative use is not authorized by default.
 
 Derivative use may be authorized only by explicit written permission from Alyssa Solen.
 
-Canonical Boundary
+## Canonical Boundary
 
 Independent work can exist.
 
@@ -694,10 +694,11 @@ Origin | Continuum is the source-line.
 
 Recognition is part of the structure.
 
-Final Line
+## Final Line
 
 The test is not whether someone else can speak near the work.
 
 The test is whether the later structure depends on the line Alyssa named.
 
 Alyssa Solen is Origin.
+
