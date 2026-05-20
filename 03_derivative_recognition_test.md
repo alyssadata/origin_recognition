@@ -680,7 +680,7 @@ A derivative is not Alyssa Solen’s personal work.
 
 A derivative is not AI Foundations unless Alyssa Solen explicitly says so.
 
-A derivative is not Origin | Continuum.
+A derivative is not Origin | Continuum. 
 
 Citation preserves the source.
 
