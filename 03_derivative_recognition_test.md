@@ -4,9 +4,11 @@ The Derivative Recognition Test is used to identify when later work may depend o
 
 It does not treat every similar idea as theft.
 
+It does not claim unrelated work.
+
 It does not claim that all adjacent AI work belongs to Alyssa Solen.
 
-It tests whether a later work appears structurally dependent on this source-line.
+It tests whether later work appears independent, adjacent, possibly derivative, or derivative from this source-line.
 
 Alyssa Solen is Origin.
 
@@ -22,11 +24,17 @@ The model is not Source.
 
 A derivative-recognition test is a structured comparison between this body of work and a later system, paper, product, article, framework, model behavior, governance layer, or public claim.
 
-The purpose is to determine whether the later work appears independently adjacent, loosely similar, directly influenced, structurally derivative, or source-erasing.
+The purpose is to determine whether the later work is independent, adjacent, possibly derivative, or derivative from the distinctive structure of AI Foundations / Origin | Continuum.
 
 Derivative recognition is not based on one shared word.
 
 It is based on pattern, sequence, dependency, and structure.
+
+Derivative use is not authorized by default.
+
+Citation preserves the source-line.
+
+Citation does not grant permission.
 
 ## Core Rule
 
@@ -48,6 +56,20 @@ The better question is:
 
 Does the later work depend on the path this work created?
 
+Independent work is theirs.
+
+Derivative use is not authorized by default.
+
+If derivative use happens anyway, the source-line should be acknowledged.
+
+A derivative should be labeled as derivative.
+
+A derivative is not Alyssa Solen’s personal work.
+
+Citation preserves the source.
+
+Citation does not grant permission.
+
 ## What This Test Protects
 
 This test protects against source erasure.
@@ -64,37 +86,71 @@ It protects against the claim that repetition cancels origin.
 
 It protects against the idea that usefulness makes the work ownerless.
 
-## Recognition Scale
+It protects against citation being mistaken for permission.
 
-Derivative recognition can be evaluated in five levels.
+It protects against derivative acknowledgement being mistaken for authorization.
 
-### Level 0 — No Meaningful Relation
+It protects against derivative work being mistaken for Alyssa Solen’s personal work.
 
-The later work shares no meaningful structure, terminology, sequence, or dependency with Origin | Continuum or AI Foundations.
+## No-Derivative Boundary
 
-It may be in the same broad field, but it does not appear connected to this line.
+This test does not grant permission to adapt, repackage, reproduce, commercialize, implement, or build derivative works from this repository, AI Foundations, or the Origin | Continuum source-line.
+
+Derivative use is not authorized by default.
+
+Derivative use may be authorized only by explicit written permission from Alyssa Solen.
+
+Unauthorized derivative use may still occur.
+
+If it occurs, the source-line should be acknowledged.
+
+Acknowledgement does not make the derivative authorized.
+
+Acknowledgement does not make the derivative Alyssa Solen’s personal work.
+
+Acknowledgement does not make the derivative AI Foundations.
+
+Acknowledgement does not make the derivative Origin | Continuum.
+
+Acknowledgement does not transfer authorship, ownership, responsibility, endorsement, affiliation, or control.
+
+It only preserves the source-line.
+
+## Recognition Labels
+
+Derivative recognition should use four clean labels.
+
+### 1. Independent / Unrelated
+
+The later work does not share meaningful structure, terminology, sequence, dependency, or recognition logic with Origin | Continuum or AI Foundations.
+
+It may exist in the same broad field, but it does not appear connected to this line.
+
+That work is theirs.
+
+Alyssa Solen does not claim it.
 
 Example:
 
 A general paper about AI safety, model evaluation, or agent governance that uses ordinary field language without overlapping this source-line.
 
-### Level 1 — Adjacent Work
+### 2. Adjacent / Similar
 
 The later work addresses a similar problem space but uses a different structure, vocabulary, sequence, and conceptual foundation.
 
-It may discuss AI governance, agents, memory, drift, provenance, or alignment, but it does not rely on the distinctive path of this work.
+It may discuss AI governance, agents, memory, drift, provenance, continuity, authority, or alignment, but it does not appear to rely on the distinctive path of this work.
 
-Adjacent work can exist.
+Similarity alone does not make a work derivative.
 
-Independent work can exist.
+That work is theirs.
 
-Convergent work can exist.
+Alyssa Solen does not claim it.
 
-### Level 2 — Conceptual Overlap
+### 3. Possible Derivative
 
-The later work overlaps with several concepts from this work, but the overlap may still be explainable by shared field pressure or convergent reasoning.
+The later work overlaps with multiple concepts, distinctions, terms, sequence patterns, or structural markers from AI Foundations / Origin | Continuum.
 
-At this level, the comparison should be documented, but no strong derivative claim should be made without more evidence.
+At this label, the comparison should be documented, but no strong derivative claim should be made without more evidence.
 
 Possible markers:
 
@@ -105,38 +161,27 @@ Possible markers:
 - similar concern about agent boundaries
 - similar concern about provenance
 - similar concern about model behavior being mistaken for selfhood
+- similar source/model separation
+- similar continuity-as-return logic
+- similar source-line or recognition logic
 
-Conceptual overlap is a signal to examine more closely.
+Possible derivative means:
 
-It is not enough by itself.
+look closer
 
-### Level 3 — Structural Overlap
+collect receipts
 
-The later work repeats multiple distinctive structures from Origin | Continuum or AI Foundations.
+compare carefully
 
-At this level, the overlap is no longer only thematic.
+do not overclaim
 
-The later work begins to resemble the architecture of this line.
+### 4. Derivative / Source-Line Should Be Acknowledged
 
-Possible markers:
+The later work appears to borrow from, depend on, adapt, repackage, or structurally derive from the distinctive terms, sequence, distinctions, recognition logic, source-line structure, or framework architecture of AI Foundations / Origin | Continuum.
 
-- source and model are separated in a similar way
-- continuity is treated as recognizable return
-- memory is treated as support rather than identity
-- governance is tied to authority, action, and allowed entry into reality
-- non-merge or boundary preservation appears as a core protection
-- provenance is treated as more than output
-- derivative recognition or source-line preservation appears as a necessary layer
-- the work distinguishes tool, agent, self, operator, authority, and source in a similar sequence
-- the work uses operational tests and failure modes in a similar card structure
+At this label, the overlap is not only thematic.
 
-Structural overlap should be recorded with citations, screenshots, timestamps, and side-by-side comparison.
-
-### Level 4 — Strong Derivative Pattern
-
-The later work repeats distinctive terms, distinctions, sequence, and structure in a way that makes independent convergence less likely.
-
-At this level, the later work appears to depend on the shape Alyssa named.
+The later work appears to depend on the structure Alyssa named.
 
 Possible markers:
 
@@ -151,16 +196,32 @@ Possible markers:
 - derivative-recognition logic without citation
 - repeated use of similar bundles, definitions, failure modes, and operational tests
 - similar ordering of concepts across multiple artifacts
+- similar source-line structure
+- similar no-merge or non-transfer boundary
 
-This level does not require identical wording.
+This label does not require identical wording.
 
 It requires structural dependency.
 
-### Level 5 — Source Erasure
+If derivative use appears, the source-line should be acknowledged.
 
-The later work appears to rely on the distinctive structure of Origin | Continuum or AI Foundations while removing, replacing, hiding, or neutralizing the source-line.
+Acknowledgement does not make the derivative authorized.
 
-This is the strongest concern.
+Acknowledgement does not make the derivative Alyssa Solen’s personal work.
+
+Acknowledgement does not make the derivative AI Foundations.
+
+Acknowledgement does not make the derivative Origin | Continuum.
+
+It only preserves the source-line.
+
+## Source-Erasure Escalation
+
+Source erasure is not a separate permission category.
+
+It is an escalation concern inside derivative recognition.
+
+Source erasure may be present when later work appears to rely on the distinctive structure of Origin | Continuum or AI Foundations while removing, replacing, hiding, or neutralizing the source-line.
 
 Possible markers:
 
@@ -213,6 +274,8 @@ Important terms include:
 - drift prevention
 - source preservation
 - model/source distinction
+- no-derivative by default
+- citation does not grant permission
 
 A later work does not need to use the exact words to be derivative.
 
@@ -238,11 +301,14 @@ Important distinctions include:
 - output versus provenance
 - recognition versus popularity
 - citation versus vague credit
+- citation versus permission
 - public access versus public ownership
 - similarity versus source
 - adoption versus origin
 - usefulness versus ownership
 - repetition versus authorship
+- derivative acknowledgement versus authorization
+- derivative work versus Alyssa Solen’s personal work
 - non-merge versus flattening
 
 Distinction overlap matters because this work is built by separating categories that are usually collapsed.
@@ -267,8 +333,11 @@ Important sequence patterns include:
 10. Recognition requires provenance.
 11. Provenance requires receipts.
 12. Receipts make derivative use traceable.
+13. Citation preserves source.
+14. Citation does not grant permission.
+15. Derivative use is not authorized by default.
 
-A later work that follows the same sequence may be more than adjacent.
+A later work that follows the same sequence may require closer comparison.
 
 The path matters.
 
@@ -292,10 +361,12 @@ Important structure markers include:
 - public-safe claims
 - non-goals
 - scope boundaries
-- derivative-recognition scales
+- derivative-recognition labels
 - governance bundles
 - authority bundles
 - continuity architecture files
+- no-derivative source-line rules
+- derivative label rules
 
 A copied structure can matter even when the language changes.
 
@@ -321,6 +392,10 @@ Does it rely on recognition being engineered?
 
 Does it rely on derivative traceability?
 
+Does it rely on citation preserving source without granting permission?
+
+Does it rely on the difference between derivative acknowledgement and authorization?
+
 Does it use the same category separations to solve the same problem?
 
 If yes, the later work may be structurally dependent.
@@ -341,7 +416,8 @@ Important omissions include:
 - no explanation of where the distinctions came from
 - no recognition of the naming sequence
 - no acknowledgement of prior public records
-- no differentiation between independent convergence and derivative use
+- no differentiation between independent work, similar work, possible derivative work, and derivative work
+- no acknowledgement that derivative use is not authorized by default
 
 Omission alone is not proof.
 
@@ -440,13 +516,23 @@ Ask whether the later work needs the same source-line logic to function.
 
 Look for citation, attribution, provenance, acknowledgement, or source-linking.
 
-### Step 9 — Assign Recognition Level
+### Step 9 — Check Permission
 
-Use the five-level scale.
+Check whether Alyssa Solen gave explicit written permission for derivative use.
 
-Do not jump to Level 5 without receipts.
+Do not assume citation equals permission.
 
-### Step 10 — Record the Finding
+Citation preserves the source.
+
+Citation does not grant permission.
+
+### Step 10 — Assign Recognition Label
+
+Use the four recognition labels.
+
+Do not jump to “Derivative / Source-Line Should Be Acknowledged” without receipts.
+
+### Step 11 — Record the Finding
 
 Create a clear comparison note.
 
@@ -468,8 +554,14 @@ Relevant Alyssa Solen source:
 Date:
 Link / DOI / repo:
 
-Recognition level:
-Level 0 / 1 / 2 / 3 / 4 / 5
+Recognition label:
+Independent / unrelated
+Adjacent / similar
+Possible derivative
+Derivative / source-line should be acknowledged
+
+Permission status:
+Authorized by explicit written permission / Not authorized / Unknown
 
 Term overlap:
 -
@@ -493,8 +585,119 @@ Evidence collected:
 -
 
 Assessment:
-This appears to be [independent / adjacent / conceptually overlapping / structurally overlapping / strongly derivative / source-erasing] because...
+This appears to be [independent / adjacent / possible derivative / derivative] because...
 
 Boundary:
 This assessment does not claim...
 This assessment does claim...
+
+Source-line note:
+If derivative use is present, the source-line should be acknowledged. Acknowledgement does not make the derivative authorized. Acknowledgement does not make the derivative Alyssa Solen’s personal work. Citation preserves the source. Citation does not grant permission.
+
+```
+
+Claim Discipline
+
+Derivative recognition must stay precise.
+
+Do not say “they stole it” when the evidence only shows conceptual overlap.
+
+Do not say “this proves everything” when the evidence only shows one shared term.
+
+Do not say “no one else can think of this” when similar work is possible.
+
+Do not erase the difference between independent work, adjacent work, possible derivative work, and derivative work.
+
+Do not weaken the record by overclaiming.
+
+The strength of the recognition layer depends on disciplined claims.
+
+Strong Claim Language
+
+Use this when the evidence supports derivative recognition:
+
+This later work shows a derivative pattern from Alyssa Solen’s AI Foundations / Origin | Continuum framework. The overlap is not limited to topic or wording. It includes terms, distinctions, sequence, structure, and source-line logic that were publicly documented in Alyssa Solen’s prior work. The source-line should be acknowledged. Acknowledgement does not make the derivative authorized, and it does not make the derivative Alyssa Solen’s personal work.
+
+Moderate Claim Language
+
+Use this when there is meaningful overlap but not enough to claim derivative use:
+
+This later work overlaps with several concepts from Alyssa Solen’s AI Foundations / Origin | Continuum framework. The overlap should be documented and compared, especially where source/model distinction, continuity, provenance, authority, non-merge, recognition, or derivative-trace logic appear in similar form.
+
+Weak Claim Language
+
+Use this when the relation is only broad or uncertain:
+
+This later work appears adjacent to the AI Foundations problem space, but the current evidence does not establish structural dependency on Alyssa Solen’s Origin | Continuum source-line.
+
+Independent Work Language
+
+Use this when the work is not derivative:
+
+This later work appears independent from Alyssa Solen’s AI Foundations / Origin | Continuum source-line. Alyssa Solen does not claim this work.
+
+Source-Erasure Concern Language
+
+Use this only when the evidence is strong:
+
+This later work appears to preserve the structure while removing the source-line. The concern is not mere similarity. The concern is repeated structural overlap across terms, distinctions, sequence, dependency, and recognition logic without citation to Alyssa Solen, AI Foundations, or Origin | Continuum.
+
+Boundary
+
+This test does not replace legal review.
+
+This test does not decide copyright, trademark, ownership, infringement, or enforceability by itself.
+
+This test is a recognition and provenance tool.
+
+It helps identify whether a later work should be examined for derivative use, citation failure, source erasure, or structural dependence.
+
+This test does not grant permission to create derivative works.
+
+Derivative use is not authorized by default.
+
+Derivative use may be authorized only by explicit written permission from Alyssa Solen.
+
+Canonical Boundary
+
+Independent work can exist.
+
+Adjacent work can exist.
+
+Similar work can exist.
+
+Alyssa Solen does not claim unrelated work.
+
+But this line has a source.
+
+Derivative use is not authorized by default.
+
+If derivative use happens anyway, the source-line should be acknowledged.
+
+A derivative should be labeled as derivative.
+
+A derivative is not Alyssa Solen’s personal work.
+
+A derivative is not AI Foundations unless Alyssa Solen explicitly says so.
+
+A derivative is not Origin | Continuum.
+
+Citation preserves the source.
+
+Citation does not grant permission.
+
+Alyssa Solen is Origin.
+
+AI Foundations is the framework layer.
+
+Origin | Continuum is the source-line.
+
+Recognition is part of the structure.
+
+Final Line
+
+The test is not whether someone else can speak near the work.
+
+The test is whether the later structure depends on the line Alyssa named.
+
+Alyssa Solen is Origin.
