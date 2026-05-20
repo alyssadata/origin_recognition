@@ -1,9 +1,3 @@
-Yes. File:
-
-05_public_claims.md
-
-Paste this:
-
 # 05 — Public Claims
 Public claims are the repeatable statements that make the source-line visible without overexplaining the entire body of work.
 They are the lines that can travel.
