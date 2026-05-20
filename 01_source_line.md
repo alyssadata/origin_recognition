@@ -18,7 +18,7 @@ The model is not Source.
 
 A source-line is the named origin path of a body of work.
 
-It identifies where the structure came from, who formed the line, what distinctions hold the work together, and what must remain attached when the work is cited, repeated, expanded, or used.
+It identifies where the structure came from, who formed the line, what distinctions hold the work together, and what must remain attached when the work is cited, referenced, discussed, reviewed, compared, or used in a separately authorized way.
 
 A source-line is not branding.
 
@@ -124,29 +124,87 @@ Recognition is not optional decoration.
 
 Recognition is part of the structure.
 
-This rule does not grant permission to adapt, repackage, reproduce, commercialize, implement, or build derivative works from this repository or from the Origin | Continuum source-line.
+This source-line is no-derivative by default.
+
+This file does not grant permission to adapt, repackage, reproduce, commercialize, implement, or build derivative works from this repository, AI Foundations, or the Origin | Continuum source-line.
+
+Citation preserves the source-line.
+
+Citation does not grant permission.
 
 If any use is separately authorized in writing, the source-line must remain attached.
 
-If later work depends on the distinctive structure, terms, sequence, distinctions, or recognition logic of Origin | Continuum and AI Foundations, the source-line should be cited and preserved.
-
 ## Boundary
+
+This source-line does not claim unrelated work.
 
 This source-line does not claim that all AI governance, agent design, memory systems, drift detection, provenance work, continuity testing, or authority structures belong to Alyssa Solen.
 
-Adjacent work can exist.
+Other people may build their own independent work.
 
-Independent work can exist.
+That work is theirs.
 
-Convergent work can exist.
+Alyssa Solen does not claim it.
+
+Similarity alone does not make a work derivative.
 
 But this line has a source.
 
-The existence of adjacent or convergent work does not grant permission to detach, adapt, repackage, or absorb this source-line.
+Derivative use exists when later work borrows from, depends on, adapts, repackages, or structurally derives from the distinctive terms, sequence, distinctions, recognition logic, source-line structure, or framework architecture of AI Foundations / Origin | Continuum.
 
-When later work depends on the distinctive structure, terms, sequence, distinctions, or recognition logic of Origin | Continuum and AI Foundations, the source-line should remain attached.
+Derivative use is not authorized by default.
 
-Recognition is required because the line has a source.
+Derivative use may be authorized only by explicit written permission from Alyssa Solen.
+
+Unauthorized derivative use may still occur.
+
+If it occurs, the source-line should be acknowledged.
+
+Acknowledgement does not make the derivative authorized.
+
+Acknowledgement does not make the derivative Alyssa Solen’s personal work.
+
+Acknowledgement does not make the derivative AI Foundations.
+
+Acknowledgement does not make the derivative Origin | Continuum.
+
+Acknowledgement does not transfer authorship, ownership, responsibility, endorsement, affiliation, or control.
+
+It only preserves the source-line.
+
+## Derivative Label Rule
+
+If later work derives from AI Foundations / Origin | Continuum, it should be labeled as derivative.
+
+A derivative is not the original work.
+
+A derivative is not Alyssa’s personal work.
+
+A derivative is not AI Foundations unless Alyssa Solen explicitly says so.
+
+A derivative is not Origin | Continuum.
+
+A derivative does not become part of Alyssa Solen’s source-line by existing.
+
+It remains separate.
+
+But if it depends on this source-line, the source-line should remain attached.
+
+## Clean Rule
+
+Independent work is theirs.
+
+Derivative use is not authorized by default.
+
+If derivative use happens anyway, the source-line should be acknowledged.
+
+A derivative should be labeled as derivative.
+
+A derivative is not Alyssa’s personal work.
+
+Citation preserves the source.
+
+Citation does not grant permission.
 
 Alyssa Solen is Origin.
 
