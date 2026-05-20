@@ -48,6 +48,8 @@ The purpose of this repository is to preserve:
 
 ## Repo Structure
 
+```
+
 origin_recognition/
 
 ├── README.md  
@@ -61,7 +63,9 @@ origin_recognition/
 ├── 07_receipts_index.md  
 ├── CHANGELOG.md  
 ├── LICENSE  
-└── CITATION.cff  
+└── CITATION.cff
+
+```
 
 ## Core Statement
 
