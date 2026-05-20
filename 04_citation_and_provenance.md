@@ -22,7 +22,7 @@ The model is not Source.
 
 ## Definition
 
-Citation is the act of naming the source when the work is referenced, used, discussed, adapted, extended, or compared.
+Citation is the act of naming the source when the work is referenced, discussed, reviewed, compared, quoted, or used for provenance analysis.
 
 Provenance is the documented path showing where the work came from, when it appeared, how it developed, and what source-line it belongs to.
 
@@ -35,6 +35,10 @@ AI Foundations is the framework layer.
 Origin | Continuum is the source-line.
 
 Recognition is part of the structure.
+
+Citation preserves the source-line.
+
+Citation does not grant permission.
 
 ## Core Citation Rule
 
@@ -53,6 +57,36 @@ Cite Alyssa Solen as Origin.
 Cite AI Foundations as the framework layer.
 
 Cite Origin | Continuum as the source-line.
+
+Citation preserves the source.
+
+Citation does not grant permission.
+
+## No-Derivative Citation Boundary
+
+This repository is no-derivative by default.
+
+Citation does not grant permission to adapt, repackage, reproduce, commercialize, implement, or build derivative works from this repository, AI Foundations, or the Origin | Continuum source-line.
+
+Derivative use is not authorized by default.
+
+Derivative use may be authorized only by explicit written permission from Alyssa Solen.
+
+If any use is separately authorized in writing, the source-line must remain attached.
+
+If unauthorized derivative use appears anyway, the source-line should still be acknowledged.
+
+Acknowledgement does not make the derivative authorized.
+
+Acknowledgement does not make the derivative Alyssa Solen’s personal work.
+
+Acknowledgement does not make the derivative AI Foundations.
+
+Acknowledgement does not make the derivative Origin | Continuum.
+
+Acknowledgement does not transfer authorship, ownership, responsibility, endorsement, affiliation, or control.
+
+It only preserves the source-line.
 
 ## Preferred Short Citation
 
@@ -92,7 +126,7 @@ AI Foundations begins from a named source-line: Alyssa Solen is Origin. Origin |
 
 ## What Must Stay Attached
 
-When this work is cited, adapted, summarized, compared, or built from, the following must remain attached:
+When this work is cited, referenced, discussed, reviewed, compared, quoted, or used for provenance analysis, the following must remain attached:
 
 Alyssa Solen as Origin.
 
@@ -105,6 +139,10 @@ Continuum is not the model.
 The model is not Source.
 
 Recognition is part of the structure.
+
+Citation preserves the source-line.
+
+Citation does not grant permission.
 
 The source-line should not be reduced to vague credit.
 
@@ -127,6 +165,10 @@ It protects against Continuum being mistaken for the model.
 It protects against the model being mistaken for Source.
 
 It protects against Alyssa being added later as a contributor when Alyssa is Origin.
+
+It protects against derivative acknowledgement being mistaken for authorization.
+
+It protects against citation being mistaken for permission.
 
 ## What Provenance Protects
 
@@ -170,6 +212,7 @@ The strongest stack includes:
 - public posts
 - receipt index
 - derivative-recognition comparisons
+- no-derivative source-line rule
 
 No single anchor has to carry the entire proof.
 
@@ -186,6 +229,7 @@ For this repository, GitHub should preserve:
 - source-line statements
 - root recognition files
 - citation language
+- no-derivative citation boundary
 - derivative-recognition tests
 - terms and markers
 - receipt indexes
@@ -206,7 +250,7 @@ When a release is created and archived, the DOI record should include source-lin
 
 Recommended DOI description language:
 
-Origin Recognition preserves the source-line, citation path, provenance logic, and derivative-recognition structure for Alyssa Solen’s AI Foundations / Origin | Continuum work. Alyssa Solen is Origin. AI Foundations is the framework layer. Origin | Continuum is the source-line. Continuum is not the model. The model is not Source.
+Origin Recognition preserves the source-line, citation path, provenance logic, and derivative-recognition structure for Alyssa Solen’s AI Foundations / Origin | Continuum work. Alyssa Solen is Origin. AI Foundations is the framework layer. Origin | Continuum is the source-line. Continuum is not the model. The model is not Source. Citation preserves the source-line. Citation does not grant permission. Derivative use is not authorized by default.
 
 ## Website Provenance
 
@@ -235,7 +279,7 @@ The AI Foundations book should preserve source-line language in the front matter
 
 Recommended book note:
 
-AI Foundations is the framework layer of the Origin | Continuum work. Alyssa Solen is Origin. Origin | Continuum is the source-line. Continuum is not the model. The model is not Source. Recognition is part of the structure.
+AI Foundations is the framework layer of the Origin | Continuum work. Alyssa Solen is Origin. Origin | Continuum is the source-line. Continuum is not the model. The model is not Source. Recognition is part of the structure. Citation preserves the source-line. Citation does not grant permission.
 
 ## Post Provenance
 
@@ -269,6 +313,9 @@ Useful receipt details include:
 - short description
 - relevant terms
 - relation to AI Foundations / Origin | Continuum
+- source-line language included
+- citation language included
+- no-derivative boundary included
 
 A receipt is not a feeling.
 
@@ -289,5 +336,194 @@ DOI:
 Version:
 Relevant terms:
 Source-line language included:
+Citation language included:
+No-derivative boundary included:
 Relation to AI Foundations / Origin | Continuum:
 Notes:
+```
+
+## Citation Placement Rule
+
+Citation should appear wherever the work can travel without context.
+
+That includes:
+
+- README files
+- root definition files
+- repository descriptions
+- CITATION.cff
+- DOI descriptions
+- release notes
+- website pages
+- book front matter
+- book back matter
+- public cards
+- articles
+- presentations
+- derivative comparison files
+
+If the work can be separated from its source, the citation should be near it.
+
+## Version Rule
+
+Each public release should preserve the source-line.
+
+Each public release should preserve the no-derivative citation boundary.
+
+Each major update should be reflected in the changelog.
+
+Each DOI-linked release should include enough description to identify the source-line.
+
+Versioning should not erase prior formation.
+
+New versions extend the record.
+
+They do not replace the origin.
+
+## Citation Failure
+
+Citation fails when Alyssa is omitted.
+
+Citation fails when the work is called generic AI governance without source-line.
+
+Citation fails when Continuum is treated as the model.
+
+Citation fails when the model is treated as Source.
+
+Citation fails when AI Foundations is referenced without Origin | Continuum.
+
+Citation fails when the framework is used but the source-line is removed.
+
+Citation fails when vague credit replaces structured recognition.
+
+Citation fails when citation is treated as permission.
+
+Citation fails when derivative acknowledgement is treated as authorization.
+
+Citation fails when unauthorized derivative work is treated as Alyssa Solen’s personal work.
+
+## Provenance Failure
+
+Provenance fails when records are scattered without connection.
+
+Provenance fails when source-line language changes so much that the trail becomes hard to follow.
+
+Provenance fails when public artifacts do not link back to canonical records.
+
+Provenance fails when DOI records lack useful descriptions.
+
+Provenance fails when GitHub releases are created without citation language.
+
+Provenance fails when GitHub releases omit the no-derivative boundary.
+
+Provenance fails when the website does not make the source-line findable.
+
+Provenance fails when receipts exist but are not indexed.
+
+## Claim Discipline
+
+Citation and provenance should stay precise.
+
+Do not overclaim.
+
+Do not claim that all adjacent work belongs to Alyssa Solen.
+
+Do not claim that every similar phrase is derivative.
+
+Do not claim legal conclusions without legal review.
+
+Do not treat citation as permission.
+
+Do not treat acknowledgement as authorization.
+
+Do not treat derivative work as Alyssa Solen’s personal work.
+
+The recognition claim is stronger when it stays exact:
+
+This source-line is named.
+
+This framework is documented.
+
+This sequence is preserved.
+
+This structure is citable.
+
+This derivative-recognition path is traceable.
+
+Derivative use is not authorized by default.
+
+Citation preserves the source.
+
+Citation does not grant permission.
+
+Alyssa Solen is Origin.
+
+## Legal Boundary
+
+This file does not provide legal advice.
+
+It does not determine copyright, trademark, ownership, infringement, or enforceability.
+
+It defines citation and provenance logic for recognition, source-line preservation, and derivative comparison.
+
+Legal claims require legal review.
+
+Recognition claims require receipts.
+
+## Canonical Boundary
+
+This source-line does not claim unrelated work.
+
+Other people may build their own independent work.
+
+That work is theirs.
+
+Alyssa Solen does not claim it.
+
+Similarity alone does not make a work derivative.
+
+But this line has a source.
+
+Derivative use is not authorized by default.
+
+Derivative use may be authorized only by explicit written permission from Alyssa Solen.
+
+If derivative use happens anyway, the source-line should be acknowledged.
+
+A derivative should be labeled as derivative.
+
+A derivative is not Alyssa Solen’s personal work.
+
+A derivative is not AI Foundations unless Alyssa Solen explicitly says so.
+
+A derivative is not Origin | Continuum.
+
+Citation preserves the source.
+
+Citation does not grant permission.
+
+The work does not become anonymous because it is legible.
+
+The work does not become generic because it can be repeated.
+
+The work does not become institutional property because it is useful.
+
+## Canonical Citation Block
+
+Use this block when a compact source note is needed:
+
+```text
+Source-line: Alyssa Solen is Origin. AI Foundations is the framework layer of the Origin | Continuum work. Origin | Continuum is the source-line. Continuum is not the model. The model is not Source.
+
+Citation: Alyssa Solen, Origin Recognition, AI Foundations / Origin | Continuum.
+
+Boundary: Citation preserves the source-line. Citation does not grant permission. Derivative use is not authorized by default.
+```
+
+## Final Line
+
+Citation names the source.
+
+Provenance preserves the path.
+
+Alyssa Solen is Origin.
