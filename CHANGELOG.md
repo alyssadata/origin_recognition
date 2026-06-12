@@ -106,6 +106,8 @@ receipt indexing
 
 source-erasure comparison structure
 
+June 11, 2026 Added - `09_source_to_user_contact.md` — Defines the public chain from Source to user contact while preserving Origin, provenance, and non-merge boundaries.
+
 ## Core Source-Line Preserved
 
 This version preserves the following source-line:
