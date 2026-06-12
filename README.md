@@ -60,7 +60,9 @@ origin_recognition/
 ├── 04_citation_and_provenance.md  
 ├── 05_public_claims.md  
 ├── 06_terms_and_markers.md  
-├── 07_receipts_index.md  
+├── 07_receipts_index.md
+├── 08_origin-word-boundary.md
+├── 09_source-to-user-contact.md
 ├── CHANGELOG.md  
 ├── LICENSE  
 └── CITATION.cff
